@@ -58,7 +58,7 @@ Save your wallet details so you're able to request funds from the Solana Faucet 
 * [Check out Solana's step by step guide on creating a token!](https://hackp.ac/ghwweb3-solana-token)
 
 #### Submission:
-Submit your code to our GHW Web3 Devpost Page! 
+Submit your code to our [GHW Web3 Devpost Page!](https://global-hack-week-web3-21472.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open) 
 
 ## Challenge 5
 ### Get some SOL airdropped to your developer wallet
@@ -67,9 +67,9 @@ Submit your code to our GHW Web3 Devpost Page!
 * You can use this test SOL to power your own Solana programs and smart contracts on the chain.
 * Make sure you toggle the "Request Airdrop" dropdown to 'testnet.'
 * Connecting your GitHub account will get you an even higher airdrop limit! 
+  
+#### Documentation:
+* [Head over to the Solana Faucet to get started](https://hackp.ac/ghwweb3-solana-faucet).
 
 #### Submission:
 * Submit a screen shot of your SOL air drop to our [day-of form](https://hackp.ac/ghwform). 
-  
-#### Documentation:
-* [Head over to the Solana Faucet to get started](https://hackp.ac/ghwweb3-solana-faucet)
