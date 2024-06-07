@@ -39,8 +39,8 @@ To use it, you do NOT have to install any software on your computer. Simply open
 ## Challenge 3
 ### Download a Solana Wallet
 
-To take action on a blockchain, you need a wallet. <br>
-You'll be able to use your wallet in later challenges to request funds from the Solana Faucet. <br>
+To take action on a blockchain, you'll need a wallet. <br><br>
+Save your wallet details so you're able to request funds from the Solana Faucet later on. <br> <br>
 [Download a Solana wallet](https://hackp.ac/ghwweb3-solana-token) and start your journey on-chain!
 
 
@@ -59,7 +59,7 @@ You'll be able to use your wallet in later challenges to request funds from the 
 
 ## Challenge 5
 ### Get some SOL airdropped to your developer wallet
-#### Objectives: 
+#### Objective: 
 * With the wallet you installed in challenge 3, get some test SOL using the public faucet!
 * You can use this test SOL to power your own Solana programs and smart contracts on the chain.
 * Make sure you toggle the "Request Airdrop" dropdown to 'testnet.'
