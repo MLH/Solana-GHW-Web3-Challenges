@@ -6,7 +6,7 @@ Hello hackers!  This week, we're going to learn how to leverage several of Solan
 
 If you have any questions about Oracle or their Global Hack Week challenges, head to the [MLH Discord](https://discord.mlh.io/) and find the #ask-solana channel!
 
-#Challenges
+# Challenges
 
 ## Registration Challenge 1 
 ### Sign up for the Solana Developer Newsletter
