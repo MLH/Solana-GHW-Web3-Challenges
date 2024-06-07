@@ -12,7 +12,7 @@ If you have any questions about Oracle or their Global Hack Week challenges, hea
 ### Sign up for the Solana Developer Newsletter
 
 Every week Solana puts out information about development within the Solana community and how to build with the latest technologies. <br>
-Signup today for the [developer newsletter!](https://hackp.ac/ghwweb3-solana-newsletter)
+<br> Signup today for the [developer newsletter!](https://hackp.ac/ghwweb3-solana-newsletter)
 
 #### Submission:
 * Take a screenshot of your "successfully signed up!" message and submit it to our day-of form. 
